@@ -1,4 +1,4 @@
-package com.example.cryptoapp.data.workers
+package com.example.cryptoapp.data.repository.workers
 
 import android.content.Context
 import androidx.work.CoroutineWorker
